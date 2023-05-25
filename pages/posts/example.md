@@ -1,7 +1,7 @@
 ---
 title: example
 date: 2023/5/25
-description: View examples of all possible Markdown options.
+description: View examples of Markdown options.
 tag: dev
 author: You
 ---

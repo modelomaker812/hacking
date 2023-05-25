@@ -1,5 +1,5 @@
 ---
-title: Pages Example Blog Post
+title: Second Post
 date: 2023/5/25
 description: Learn more about Next.js pages.
 tag: web development

@@ -1,7 +1,7 @@
 ---
 title: pages
 date: 2023/5/25
-description: Learn more about Next.js pages.
+description: Learn more about these blog post pages
 tag: development
 author: You
 ---

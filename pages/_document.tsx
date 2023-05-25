@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Roys Blog And RSS Feed',
     description: 'Catch up on all the latest pigeon news',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png',
+    image: 'https://media.istockphoto.com/id/1056810690/vector/digital-skull-and-crossbones-on-binary-code.jpg',
   }
 
   return (

@@ -1,7 +1,5 @@
 ---
 type: posts
-title: Posts
+title: posts
 date: 2023-05-25
 ---
-
-# Posts

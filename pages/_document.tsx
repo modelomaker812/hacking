@@ -24,7 +24,6 @@ export default function Document() {
       </Head>
       <body>
         <Main />
-        <rssapp-ticker id="A6hTAVBSEbVBAVp8"></rssapp-ticker><script src="https://widget.rss.app/v1/ticker.js" type="text/javascript" async></script>
         <NextScript />
       </body>
     </Html>

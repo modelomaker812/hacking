@@ -1,5 +1,5 @@
 ---
-title: Example
+title: first post
 date: 2023/5/25
 description: View examples of all possible Markdown options.
 tag: web development

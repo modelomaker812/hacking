@@ -14,8 +14,9 @@ author: You
 
 ### h3 Heading
 
-<img src="https://lohre.com/wp-content/uploads/2022/05/20220511-Internet-Security-Neon-Flicker.gif" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
-
+<img src="https://lohre.com/wp-content/uploads/2022/05/20220511-Internet-Security-Neon-Flicker.gif" alt="MarineGEO circle logo" style="height: 100px; width:100px; border-radius: 50%;" />
+                                                                                                                                   
+                                                                                                                                   
 #### h4 Heading
 
 ##### h5 Heading

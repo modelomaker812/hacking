@@ -2,7 +2,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Roy's Blog & RSS Feed',
+    title: 'Roy's Blog And RSS Feed',
     description: 'Catch up on all the latest pigeon news',
     image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png',
   }

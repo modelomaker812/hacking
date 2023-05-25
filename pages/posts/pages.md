@@ -1,5 +1,5 @@
 ---
-title: Next.js Pages
+title: Example #2
 date: 2021/3/18
 description: Learn more about Next.js pages.
 tag: web development
